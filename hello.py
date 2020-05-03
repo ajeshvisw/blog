@@ -10,9 +10,5 @@ def hello_world():
 
 
 
-
+Malayalam mark 
     
-    Ajesh english mark = 50 
-Subin malayalam mark = 80
-Sachin python mark = 100
-Lester html mark = 100
